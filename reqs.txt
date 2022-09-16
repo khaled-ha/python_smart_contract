@@ -1,0 +1,6 @@
+web3
+eth-tester
+py-solc-x
+eth-utils
+python-dotenv
+py-solc
